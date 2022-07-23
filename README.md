@@ -1,4 +1,4 @@
-# react-50-projects
+# js-50-projects
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/Truhcaz/js-50-projects/tree/main/1-expanding-cards)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/1-expanding-cards)               |
