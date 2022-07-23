@@ -8,3 +8,10 @@
 | 05  | [Blurry Loading](https://github.com/Truhcaz/js-50-projects/tree/main/5-blurry-loading)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/5-blurry-loading)               |
 | 06  | [Scroll Animation](https://github.com/Truhcaz/js-50-projects/tree/main/6-scroll-animation)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/6-scroll-animation)               |
 | 07  | [Split Landing Page](https://github.com/Truhcaz/js-50-projects/tree/main/7-split-landing-page)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/7-split-landing-page)               |
+| 08  | [Form Wave](https://github.com/Truhcaz/js-50-projects/tree/main/8-form-wave)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/8-form-wave)               |
+| 09  | [Soundboard](https://github.com/Truhcaz/js-50-projects/tree/main/9-soundboard)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/9-soundboard)               |
+| 10  | [Dad Jokes](https://github.com/Truhcaz/js-50-projects/tree/main/10-dad-jokes)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/10-dad-jokes)               |
+| 11  | [Event Keycodes](https://github.com/Truhcaz/js-50-projects/tree/main/11-event-keycodes)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/11-event-keycodes)               |
+| 12  | [FAQ Collapse](https://github.com/Truhcaz/js-50-projects/tree/main/12-faq-collapse)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/12-faq-collapse)               |
+| 13  | [Random Picker](https://github.com/Truhcaz/js-50-projects/tree/main/13-random-picker)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/13-random-picker)               |
+| 14  | [Nav Animation](https://github.com/Truhcaz/js-50-projects/tree/main/14-nav-animation)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/14-nav-animation)               |
