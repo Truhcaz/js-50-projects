@@ -15,3 +15,5 @@
 | 12  | [FAQ Collapse](https://github.com/Truhcaz/js-50-projects/tree/main/12-faq-collapse)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/12-faq-collapse)               |
 | 13  | [Random Picker](https://github.com/Truhcaz/js-50-projects/tree/main/13-random-picker)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/13-random-picker)               |
 | 14  | [Nav Animation](https://github.com/Truhcaz/js-50-projects/tree/main/14-nav-animation)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/14-nav-animation)               |
+| 15  | [Incrementing Counter](https://github.com/Truhcaz/js-50-projects/tree/main/15-incrementing-counter)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/15-incrementing-counter) 
+| 16  | [Drink Water](https://github.com/Truhcaz/js-50-projects/tree/main/16-drink-water)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/16-drink-water) 
