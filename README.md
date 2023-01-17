@@ -17,3 +17,5 @@
 | 14  | [Nav Animation](https://github.com/Truhcaz/js-50-projects/tree/main/14-nav-animation)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/14-nav-animation)               |
 | 15  | [Incrementing Counter](https://github.com/Truhcaz/js-50-projects/tree/main/15-incrementing-counter)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/15-incrementing-counter) 
 | 16  | [Drink Water](https://github.com/Truhcaz/js-50-projects/tree/main/16-drink-water)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/16-drink-water) 
+| 17  | [Movie App](https://github.com/Truhcaz/js-50-projects/tree/main/17-movie-app)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/17-movie-app) 
+| 16  | [Background Slider](https://github.com/Truhcaz/js-50-projects/tree/main/18-background-slider)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/18-background-slider) 
