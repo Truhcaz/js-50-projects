@@ -19,7 +19,7 @@ canvas.addEventListener('mousedown', (e) => {
     x= e.offsetX;
     y= e.offsetY;
 
-    drawCircle(x,y);
+    //drawCircle(x,y);
 })
 
 canvas.addEventListener('mouseup', (e) => {

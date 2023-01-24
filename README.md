@@ -22,4 +22,5 @@
 | 19  | [Theme Clock](https://github.com/Truhcaz/js-50-projects/tree/main/19-theme-clock)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/19-theme-clock)
 | 20  | [Button Ripple Effect](https://github.com/Truhcaz/js-50-projects/tree/main/20-button-ripple)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/20-button-ripple)
 | 21  | [Drag N Drop](https://github.com/Truhcaz/js-50-projects/tree/main/21-drag-n-drop)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/21-drag-n-drop)
-| 21  | [Drag N Drop](https://github.com/Truhcaz/js-50-projects/tree/main/22-drawing-app)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/22-drawing-app)
+| 22  | [Drawing App](https://github.com/Truhcaz/js-50-projects/tree/main/22-drawing-app)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/22-drawing-app)
+| 23 | [Kinetic Loader](https://github.com/Truhcaz/js-50-projects/tree/main/23-kinetic-loader)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/23-kinetic-loader)
