@@ -24,3 +24,4 @@
 | 21  | [Drag N Drop](https://github.com/Truhcaz/js-50-projects/tree/main/21-drag-n-drop)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/21-drag-n-drop)
 | 22  | [Drawing App](https://github.com/Truhcaz/js-50-projects/tree/main/22-drawing-app)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/22-drawing-app)
 | 23 | [Kinetic Loader](https://github.com/Truhcaz/js-50-projects/tree/main/23-kinetic-loader)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/23-kinetic-loader)
+| 23 | [Content Placeholder](https://github.com/Truhcaz/js-50-projects/tree/main/24-content-placeholder)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/24-content-placeholder)
