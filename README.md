@@ -28,3 +28,6 @@
 | 25 | [Sticky Navbar](https://github.com/Truhcaz/js-50-projects/tree/main/25-sticky-navbar)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/25-sticky-navbar)
 | 26 | [Double Vertical Slider](https://github.com/Truhcaz/js-50-projects/tree/main/26-double-vertical-slider)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/26-double-vertical-slider)
 | 27 | [Toast Notifications](https://github.com/Truhcaz/js-50-projects/tree/main/27-toast-notifications)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/27-toast-notifications)
+| 28 | [Github Profiles](https://github.com/Truhcaz/js-50-projects/tree/main/28-github-profiles)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/28-github-profiles)
+| 29 | [Double Click Heart](https://github.com/Truhcaz/js-50-projects/tree/main/29-double-click-heart)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/29-double-click-heart)
+| 30 | [Auto Text Effect](https://github.com/Truhcaz/js-50-projects/tree/main/30-auto-text-effect)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/30-auto-text-effect)
