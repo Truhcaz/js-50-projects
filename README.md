@@ -31,3 +31,6 @@
 | 28 | [Github Profiles](https://github.com/Truhcaz/js-50-projects/tree/main/28-github-profiles)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/28-github-profiles)
 | 29 | [Double Click Heart](https://github.com/Truhcaz/js-50-projects/tree/main/29-double-click-heart)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/29-double-click-heart)
 | 30 | [Auto Text Effect](https://github.com/Truhcaz/js-50-projects/tree/main/30-auto-text-effect)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/30-auto-text-effect)
+| 31 | [Password Generator](https://github.com/Truhcaz/js-50-projects/tree/main/31-password-generator)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/31-password-generator)
+| 32 | [Good Cheap Fast](https://github.com/Truhcaz/js-50-projects/tree/main/32-good-cheap-fast)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/32-good-cheap-fast)
+| 33 | [Notes App](https://github.com/Truhcaz/js-50-projects/tree/main/33-notes-app)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/33-notes-app)
