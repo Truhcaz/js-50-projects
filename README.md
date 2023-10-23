@@ -38,3 +38,6 @@
 | 35 | [Image Carousel](https://github.com/Truhcaz/js-50-projects/tree/main/35-image-carousel)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/35-image-carousel)
 | 36 | [Hoverboard](https://github.com/Truhcaz/js-50-projects/tree/main/36-hoverboard)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/36-hoverboard)
 | 37 | [Pokedex](https://github.com/Truhcaz/js-50-projects/tree/main/37-pokedex)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/37-pokedex)
+| 38 | [Mobile Tab Navigation](https://github.com/Truhcaz/js-50-projects/tree/main/38-mobile-tab-navigation)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/38-mobile-tab-navigation)
+| 39 | [Password Strength](https://github.com/Truhcaz/js-50-projects/tree/main/39-password-strength)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/39-password-strength)
+| 40 | [Magic Boxes](https://github.com/Truhcaz/js-50-projects/tree/main/40-magic-boxes)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/40-magic-boxes)
