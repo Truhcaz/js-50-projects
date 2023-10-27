@@ -41,3 +41,7 @@
 | 38 | [Mobile Tab Navigation](https://github.com/Truhcaz/js-50-projects/tree/main/38-mobile-tab-navigation)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/38-mobile-tab-navigation)
 | 39 | [Password Strength](https://github.com/Truhcaz/js-50-projects/tree/main/39-password-strength)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/39-password-strength)
 | 40 | [Magic Boxes](https://github.com/Truhcaz/js-50-projects/tree/main/40-magic-boxes)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/40-magic-boxes)
+| 41 | [Verify Account](https://github.com/Truhcaz/js-50-projects/tree/main/41-verify-account)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/41-verify-account)
+| 42 | [Live User Filter](https://github.com/Truhcaz/js-50-projects/tree/main/42-live-user-filter)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/42-live-user-filter)
+| 43 | [Feedback UI](https://github.com/Truhcaz/js-50-projects/tree/main/43-feedback-ui)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/43-feedback-ui)
+| 44 | [Custom Range Slider](https://github.com/Truhcaz/js-50-projects/tree/main/44-custom-range)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/44-custom-range)
