@@ -45,3 +45,5 @@
 | 42 | [Live User Filter](https://github.com/Truhcaz/js-50-projects/tree/main/42-live-user-filter)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/42-live-user-filter)
 | 43 | [Feedback UI](https://github.com/Truhcaz/js-50-projects/tree/main/43-feedback-ui)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/43-feedback-ui)
 | 44 | [Custom Range Slider](https://github.com/Truhcaz/js-50-projects/tree/main/44-custom-range)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/44-custom-range)
+| 45 | [Netflix Mobile Nav](https://github.com/Truhcaz/js-50-projects/tree/main/45-netflix-nav)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/45-netflix-nav)
+| 46 | [Quizz App](https://github.com/Truhcaz/js-50-projects/tree/main/46-quizz-app)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/46-quizz-app)
