@@ -47,3 +47,6 @@
 | 44 | [Custom Range Slider](https://github.com/Truhcaz/js-50-projects/tree/main/44-custom-range)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/44-custom-range)
 | 45 | [Netflix Mobile Nav](https://github.com/Truhcaz/js-50-projects/tree/main/45-netflix-nav)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/45-netflix-nav)
 | 46 | [Quizz App](https://github.com/Truhcaz/js-50-projects/tree/main/46-quizz-app)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/46-quizz-app)
+| 47 | [Testimonial Box](https://github.com/Truhcaz/js-50-projects/tree/main/47-testimonial-box)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/47-testimonial-box)
+| 48 | [Random Image Feed](https://github.com/Truhcaz/js-50-projects/tree/main/48-random-image-feed)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/48-random-image-feed)
+| 49 | [Todo List](https://github.com/Truhcaz/js-50-projects/tree/main/49-todo-list)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/49-todo-list)
