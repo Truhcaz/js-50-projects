@@ -50,3 +50,4 @@
 | 47 | [Testimonial Box](https://github.com/Truhcaz/js-50-projects/tree/main/47-testimonial-box)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/47-testimonial-box)
 | 48 | [Random Image Feed](https://github.com/Truhcaz/js-50-projects/tree/main/48-random-image-feed)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/48-random-image-feed)
 | 49 | [Todo List](https://github.com/Truhcaz/js-50-projects/tree/main/49-todo-list)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/49-todo-list)
+| 50 | [Halloween Catcher](https://github.com/Truhcaz/js-50-projects/tree/main/50-halloween-catcher)                             | [Live Demo](https://truhcaz.github.io/js-50-projects/50-halloween-catcher)
